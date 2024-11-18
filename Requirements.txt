@@ -1,0 +1,7 @@
+yfinance==0.2.26
+mysql-connector
+plotly
+Flask
+Flask-WTF
+WTForms
+requests
